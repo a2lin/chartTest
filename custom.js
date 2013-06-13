@@ -58,7 +58,7 @@ var data_vivek_2 ={
 			strokeColor : "rgba(151,187,205,1)",
 			pointColor : "rgba(151,187,205,1)",
 			pointStrokeColor : "#fff",
-			data : [9,98,87,50,90,70,0]
+			data : [9,98,87,80,90,70,0]
 		}]
 }
 
