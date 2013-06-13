@@ -4,7 +4,7 @@ var ctx1 = document.getElementById("viv1").getContext("2d");
 var ctx2 = document.getElementById("viv2").getContext("2d");
 
 var data_balanced = {
-	labels : ["Eating","Drinking","Sleeping","Gaming","Nothing","Partying","Studying"],
+	labels : ["Eating","Drinking","Studying","Gaming","Nothing","Partying","Sleeping"],
 	datasets : [
 		{
 			fillColor : "rgba(220,220,220,0.5)",
@@ -24,7 +24,7 @@ var data_balanced = {
 }
 
 var data_vivek ={
-	labels : ["Eating","Drinking","Sleeping","Gaming","Nothing","Partying","Studying"],
+	labels : ["Eating","Drinking","Studying","Gaming","Nothing","Partying","Sleeping"],
 	datasets : [
 		{
 			fillColor : "rgba(220,220,220,0.5)",
@@ -38,13 +38,13 @@ var data_vivek ={
 			strokeColor : "rgba(151,187,205,1)",
 			pointColor : "rgba(151,187,205,1)",
 			pointStrokeColor : "#fff",
-			data : [51,59,100,87,92,43,4]
+			data : [51,59,15,87,92,43,100]
 		}]
 }
 
 
 var data_vivek_2 ={
-	labels : ["Eating","Drinking","Sleeping","Gaming","Nothing","Partying","Studying"],
+	labels : ["Eating","Drinking","Studying","Gaming","Nothing","Partying","Sleeping"],
 	datasets : [
 		{
 			fillColor : "rgba(220,220,220,0.5)",
@@ -58,7 +58,7 @@ var data_vivek_2 ={
 			strokeColor : "rgba(151,187,205,1)",
 			pointColor : "rgba(151,187,205,1)",
 			pointStrokeColor : "#fff",
-			data : [9,98,87,80,90,70,0]
+			data : [9,98,0,80,90,70,87]
 		}]
 }
 
